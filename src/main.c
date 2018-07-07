@@ -1,5 +1,5 @@
 #include "stdio.h"
 int main(){
-	printf("welcom to my emulator!");
+	printf("Welcome to my emulator!\n");
 	return 0;
 }

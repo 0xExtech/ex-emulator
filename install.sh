@@ -2,4 +2,4 @@
 
 cd _build
 cmake .. && make
-./emulator
+./ex-emulator
